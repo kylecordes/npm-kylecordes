@@ -1,0 +1,16 @@
+{
+  "name": "kylecordes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Kyle Cordes <kyle@kylecordes.com> (http://kylecordes.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylecordes/npm-kylecordes.git"
+  },
+  "homepage": "https://github.com/kylecordes/kylecorde",
+  "description": "Info about Kyle Cordes"
+}
